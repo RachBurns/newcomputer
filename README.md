@@ -1,2 +1,27 @@
 # newcomputer
-<div style="text-align:center;"><a href="http://www.coolfundraisingideas.net/" alt="Money earned for New PC"><img border="0" src= "http://www.coolfundraisingideas.net/thermometer/thermometer.php?currency=dollar&amp;goal=645&amp;raised=110&amp;color=blue&amp;size=large" /></a><p style="font-size:.8em; color:#FFF">Provided by <a href="http://www.coolfundraisingideas.net/" rel="nofollow" style="display:block; text-decoration:none; font-size:.8em; color:#FFF">CoolFundraisingIdeas.net</a></p></div>
+<!doctype html>
+
+<style>
+#myProgress {
+  width: 100%;
+  background-color: #222;
+  color: white;
+  text-align: right;
+  height: 30px;
+}
+
+#myBar {
+  width: 17%;
+  height: 30px;
+  background-color: #ff6600;
+  text-align: center;
+  line-height: 30px;
+  color: black;
+}
+</style>
+<a href="http://www.rachburns.us" target="blank"><div id="myProgress"><div id="myBar">$110</div>$650</div></a>
+
+
+
+
+</!doctype>
